@@ -1,0 +1,7 @@
+name = Viewer Count
+description = This module provides the block for the popup Viewer Count question.
+package = Viewer Count
+core = 7.x
+dependencies[] = googleanalytics
+
+
